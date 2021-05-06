@@ -1,0 +1,23 @@
+
+Mihir Hundiwala
+SY BTECH COMPUTER ENGINEERING
+Course :- RDBMS
+Faculty :- Vaibhav Vasani (VPV) and Pradnya Bhangale (PYB)
+K J Somaiya College of Engineering
+
+
+Steps to run the code :-
+
+1. Make sure you have python installed on your machine.
+
+2. If the following packages in python (flask, chatterbot, chatterbot-corpus) are already installed skip to step 3:
+    a. Create a python environment in your desired directory by entering 'virtualenv -p python3 env' in command prompt.
+    b. Change the directory to project-folder\env\scripts and enter 'activate' in cmd to activate the environment made.
+    c. Again change the directory to your project-folder
+    d. Now install the packages by entering 'pip install <package-name>' in command prompt.
+    
+3. Run the app.py file.
+
+4. Open browser and enter 'http://127.0.0.1:5000/' as url.
+
+5. You can now chat with the bot !
