@@ -5,6 +5,9 @@ Course :- RDBMS
 Faculty :- Vaibhav Vasani (VPV) and Pradnya Bhangale (PYB)
 K J Somaiya College of Engineering
 
+This project has been made for learning purpose. 
+A chatbot has been made using "chatterbot" library in python to demonstrate 
+how easily one can make a simple chatbot for their own purpose.
 
 Steps to run the code :-
 
